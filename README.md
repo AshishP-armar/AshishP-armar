@@ -8,7 +8,7 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,python,flask,linux,mysql,django,celery&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,python,flask,linux,mysql,django,fast-api&perline=5)](https://skillicons.dev)
 ---
 
 
