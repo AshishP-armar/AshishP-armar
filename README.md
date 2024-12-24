@@ -4,7 +4,7 @@
 ### 👦 About Me :- 
 - 👨‍💻 I'm a B.Tech final year student at Swami Vivekananda College of Engineering.
 - 📍 I live in Indore, Madhya Pradesh, India.
-- I’m currently learning **Python, Django, FastAPI and other Backend tools.**
+- 🌱 I’m currently learning **Python, Django, FastAPI and other Backend tools.**
 
 ---
 
