@@ -20,4 +20,4 @@
 </p>
 
 ### 🔥 My Stats 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=AshishP-armar&count_private=true&show_icons=true&theme=react" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=AshishP-armar&count_private=true&show_icons=true&theme=react" /> <img width="425" src="https://streak-stats.demolab.com/?user=AshishP-armar&theme=react" />
